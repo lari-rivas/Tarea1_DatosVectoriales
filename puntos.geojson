@@ -1,0 +1,35 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "cat": 1 }, "geometry": { "type": "Point", "coordinates": [ 2.000000, 6.000000 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "cat": 2 }, "geometry": { "type": "Point", "coordinates": [ 5.000000, 4.000000 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "cat": 3 }, "geometry": { "type": "Point", "coordinates": [ 3.000000, 2.000000 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "cat": 4 }, "geometry": { "type": "Point", "coordinates": [ 2.000000, 0.000000 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "cat": 5 }, "geometry": { "type": "Point", "coordinates": [ 0.000000, 4.000000 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "cat": 6 }, "geometry": { "type": "Point", "coordinates": [ 5.000000, 4.000000 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "cat": 7 }, "geometry": { "type": "Point", "coordinates": [ 7.000000, 5.000000 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "cat": 8 }, "geometry": { "type": "Point", "coordinates": [ 7.000000, 3.000000 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "cat": 9 }, "geometry": { "type": "Point", "coordinates": [ 5.000000, 0.000000 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "cat": 10 }, "geometry": { "type": "Point", "coordinates": [ 2.000000, 0.000000 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "cat": 11 }, "geometry": { "type": "Point", "coordinates": [ 3.000000, 2.000000 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "cat": 12 }, "geometry": { "type": "Point", "coordinates": [ 6.000000, 3.000000 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "cat": 13 }, "geometry": { "type": "Point", "coordinates": [ 10.000000, 5.000000 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "cat": 14 }, "geometry": { "type": "Point", "coordinates": [ 10.000000, 2.000000 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "cat": 15 }, "geometry": { "type": "Point", "coordinates": [ 8.000000, 0.000000 ] } }
+
+]
+}
